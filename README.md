@@ -1,5 +1,5 @@
 # Matrix Calculator
-Command-line functional matrix arithmetic.
+A command-line functional matrix arithmetic, written in Haskell.
 
 ## What is this?
 This code performs basic matrix arithmetic using the GHCi command line.
