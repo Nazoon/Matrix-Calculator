@@ -1,3 +1,19 @@
+module MatrixFuncs (
+    getRow,
+    getCol,
+    setVecAt,
+    setMatAt,
+    setRow,
+    setCol,
+    transpose,
+    addVectors,
+    addMats,
+    vecDotProd,
+    matDotProd,
+    printRow,
+    printMatrix
+) where
+
 import Data.Char
 
 -- | Utility
